@@ -1,0 +1,5 @@
+id,address,city,zip,property_type,beds,sqft,asking_price,renovation_estimate,annual_property_tax,insurance_monthly,hoa_monthly,utilities_monthly,listing_url,red_flags
+F-101,101 Fictional Elm St,Garland,75040,single_family,3,1500,175000,45000,5500,200,0,250,,Foundation inspection needed
+F-102,202 Fictional Cedar Ln,Plano,75074,single_family,3,1700,305000,60000,7600,250,0,280,,
+F-103,303 Fictional Oak Ave,Fort Worth,76112,single_family,4,1800,160000,50000,6200,220,0,260,,Roof and permit history unknown
+F-104,404 Fictional Empty Lot,Dallas,75212,vacant_land,0,0,120000,0,0,0,0,0,,Land development uses a different model
